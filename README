@@ -1,0 +1,19 @@
+Chi Phi Mu Chapter Website
+
+Just in case you were wondering, this is a public repository which means
+that anyone can view its contents.
+
+As of 6/3/2011 the structure is as follows:
+
+SITE ROOT
+| index.html
+| about.html
+| brothers.html
+| officers.html
+| pictures.html
+| house.html
+| directions.html
+|\css
+|- main.css
+|\images
+|\js
